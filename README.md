@@ -1,2 +1,2 @@
-# depop-buyer
-Depop buyer
+# buyer
+Buyer
